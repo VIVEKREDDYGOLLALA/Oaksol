@@ -43,8 +43,8 @@ brew install mysql-connector-c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/medical-form-ocr.git
-cd medical-form-ocr
+git clone https://github.com/VIVEKREDDYGOLLALA/Oaksol.git
+cd Oaksol
 ```
 
 2. Create and activate a virtual environment:
@@ -173,17 +173,6 @@ To contribute to this project:
 - Form layout should be relatively consistent
 - MySQL connection details are hardcoded (future enhancement planned)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 👥 Authors
-
-- Your Name - *Initial work* - [YourGithub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -194,4 +183,4 @@ Contributions, issues, and feature requests are welcome! See [CONTRIBUTING.md](C
 
 ## 📞 Support
 
-For support, email your@email.com or create an issue in the repository.
+For support, email gollalavivek@email.com or create an issue in the repository.
