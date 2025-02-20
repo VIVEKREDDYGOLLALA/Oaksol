@@ -76,7 +76,7 @@ conn = mysql.connector.connect(
 project_root/
 ├── images/
 │   └── image.png
-├── main.py
+├── ocr.py
 └── requirements.txt
 ```
 
@@ -85,7 +85,7 @@ project_root/
 1. Place your medical form images in the `images` directory
 2. Run the script:
 ```bash
-python main.py
+python ocr.py
 ```
 
 3. The script will:
